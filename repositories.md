@@ -6,6 +6,21 @@
 - `user`
 - `backup-restore`
 
+
+## Utils
+- v1
+  - `zero65` / common-utils
+  - `zero65` / frontend-utils
+- v2
+  - `utils-nodejs-v2`
+- v3
+  - `utils-nodejs`
+  - `utils-gcp`
+  - `market-npm`
+  - `invest-npm`
+- v4
+  - `indian-stock-exchange`
+
 ## Market
 - v1
   - `market-v1`
