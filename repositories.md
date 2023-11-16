@@ -56,8 +56,8 @@
 
 ## Paisa
 - v1
-  - `paisa-v1` / service
-  - `paisa-v1` / app
+  - `zero65` / docker-paisa ⇒ `paisa-v1` / service
+  - `zero65` / docker-paisa-ui ⇒ `paisa-v1` / app
 - v2
   - `paisa`
   - `paisa-vue2`
