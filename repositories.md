@@ -34,9 +34,7 @@
 
 ## Invest
 - v1
-  - `zero65` / docker-investments <sub>20.07.2021</sub>
-  - `zero65` / docker-auth <sub>26.08.2021</sub>
-  - `zero65` / docker-fast-trade <sub>29.08.2021</sub>
+  - `zero65` / docker-investments
 - v2
   - `zero65` / docker-investments-2.0 ⇒ `invest-v2` / service
   - `zero65` / docker-investments-ui ⇒ `invest-v2` / app
@@ -58,8 +56,8 @@
 
 ## Paisa
 - v1
-  - `zero65` / docker-paisa ⇒ `paisa-v1` / service
-  - `zero65` / docker-paisa-ui ⇒ `paisa-v1` / app
+  - `zero65` / paisa ⇒ `paisa-v1` / service
+  - `zero65` / paisa-ui ⇒ `paisa-v1` / app
 - v2
   - `paisa`
   - `paisa-vue2`
