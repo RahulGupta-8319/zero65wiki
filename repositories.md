@@ -1,19 +1,19 @@
 ## Invest
 - v1
-  - zero65 / docker-investments
+  - `zero65` / docker-investments
 - v2
-  - invest-v2 / service
-  - invest-v2 / app
+  - `invest-v2` / service
+  - `invest-v2` / app
 - v3
-  - invest-v3
-  - invest-vue2 ⇒ invest-vue2-legacy
+  - `invest-v3`
+  - invest-vue2-legacy ⇒ `invest-vue2`
 - v4
-  - invest
-  - invest-portfolio
-  - invest-portfolio-vue3
-  - invest-trade
-  - invest-trade-vue3
-  - invest-watch
+  - `invest`
+  - `invest-portfolio`
+  - `invest-portfolio-vue3`
+  - `invest-trade`
+  - `invest-trade-vue3`
+  - `invest-watch`
 
 ## Paisa
 - v1
