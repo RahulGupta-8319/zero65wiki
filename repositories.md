@@ -1,3 +1,5 @@
+- zero65-legacy ⇒ `zero65`
+
 ## Market
 - v1
   - `market-v1`
@@ -28,9 +30,11 @@
 
 ## Paisa
 - v1
-  - paisa-v1 (service & app)
+  - `paisa-v1` / service
+  - `paisa-v1` / app
 - v2
-  - paisa
-  - paisa-vue2
+  - `paisa`
+  - `paisa-vue2`
 - v3
-  - paisa-vue3
+  - TBD
+  - `paisa-vue3`
