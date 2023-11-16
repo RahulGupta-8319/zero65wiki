@@ -34,7 +34,9 @@
 
 ## Invest
 - v1
-  - `zero65` / docker-investments
+  - `zero65` / docker-investments <sub>20.07.2021</sub>
+  - `zero65` / docker-auth <sub>26.08.2021</sub>
+  - `zero65` / docker-fast-trade <sub>29.08.2021</sub>
 - v2
   - `zero65` / docker-investments-2.0 ⇒ `invest-v2` / service
   - `zero65` / docker-investments-ui ⇒ `invest-v2` / app
