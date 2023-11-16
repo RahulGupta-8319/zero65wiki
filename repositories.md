@@ -1,4 +1,10 @@
-- zero65-legacy ⇒ `zero65`
+- **zero65-legacy** ⇒ `zero65`
+- `user`
+- `jarvis`
+- `gcloud`
+- `gateway`
+- `config`
+- `backup-restore`
 
 ## Market
 - v1
@@ -15,11 +21,14 @@
 - v1
   - `zero65` / docker-investments
 - v2
-  - `invest-v2` / service
-  - `invest-v2` / app
+  - `zero65` / docker-investments-2.0 ⇒ `invest-v2` / service
+  - `zero65` / docker-investments-ui ⇒ `invest-v2` / app
 - v3
+  - `amc`
+  - `zerodha`
   - `invest-v3`
-  - invest-vue2-legacy ⇒ `invest-vue2`
+  - **invest-vue2-legacy** ⇒ `invest-vue2`
+  - `invest-crx-v3`
 - v4
   - `invest`
   - `invest-portfolio`
@@ -27,6 +36,7 @@
   - `invest-trade`
   - `invest-trade-vue3`
   - `invest-watch`
+  - `invest-crx`
 
 ## Paisa
 - v1
@@ -36,5 +46,5 @@
   - `paisa`
   - `paisa-vue2`
 - v3
-  - TBD
+  - **TBD**
   - `paisa-vue3`
