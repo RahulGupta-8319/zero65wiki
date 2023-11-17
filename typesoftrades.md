@@ -26,3 +26,7 @@
    - PE,CE:
      - Will exchange in future if conditions are favourable
 
+   
+
+References:
+- https://www.nseindia.com/products-services/about-equity-derivatives
