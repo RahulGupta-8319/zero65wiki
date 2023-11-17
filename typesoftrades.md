@@ -5,7 +5,6 @@
 2. Index:
    - Group of stocks
    - Can't be bought and sold
-   - NSE list index
    - ETF is used to buy and sell stocks listed in Index.
    - ETF:
      - provide exchange of stocks in the same proportion as listed in a Index
