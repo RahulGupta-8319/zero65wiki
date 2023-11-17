@@ -1,3 +1,5 @@
+# Equity trading
+
 1. Stock :
    - Buy and Sell in real time
    - NSE facilitates only exchange
@@ -25,7 +27,8 @@
    - PE,CE:
      - Will exchange in future if conditions are favourable
 
-   
+# Commodity trading
+Future project
 
 References:
 - https://www.nseindia.com/products-services/about-equity-derivatives
