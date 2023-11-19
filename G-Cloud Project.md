@@ -12,3 +12,8 @@ code -> github -> webhook -> gcloud config/service -> cloud build
 5. allow user to add own config in database 
 6. checking of user added config
 7. indian-stock-exchange is our test case for this project
+
+# Zero65 cloud service key points:
+1. config needs to be added for each service in build.json
+2. it only decides what steps are requird, buiding work is done by cloud build
+3. github push request using webhook everytime changes are done on github
