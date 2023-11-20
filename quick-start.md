@@ -1,10 +1,19 @@
 # Quick Start
 
+# For new joiners
+1. Get access of Zero65Tech complete repositories with Github account
+2. Get forwarded @zero65.in email domain and create a Google account using @zero65 id
+3. Get access of Google clould build in @zero65.in id
+4. Get access of zerodha extension in @zero65.in id
+
 ## Frontend
 
 - **Vue 3**  
   Framework for building user interfaces.  
   [Vue 3 Quick Start Guide](https://vuejs.org/guide/quick-start.html)
+
+- **Vuemastery**
+  [Vue3 Beginner project tutorial](https://www.vuemastery.com/courses/intro-to-vue-3/intro-to-vue3)
 
 - **Vuetify**  
   Styling framework for Vue.js applications based on Material Design.  
