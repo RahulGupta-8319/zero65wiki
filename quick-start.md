@@ -1,6 +1,6 @@
 # Quick Start
 
-# For new joiners
+## For new joiners
 1. Get access of Zero65Tech complete repositories with Github account
 2. Get forwarded @zero65.in email domain and create a Google account using @zero65 id
 3. Get access of Google clould build in @zero65.in id
