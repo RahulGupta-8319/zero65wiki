@@ -14,6 +14,8 @@
   - Get acess to test portfolio & profiles **- prashant@**
 
 ## Week 1
+- Get started with Vue 3
+  - Vue Mastery / Beginner - Vue 3 / [Intro to Vue 3](https://www.vuemastery.com/courses/intro-to-vue-3/intro-to-vue3/)
 
 ## Frontend
 
