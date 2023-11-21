@@ -24,31 +24,23 @@
 - Show what you learnt:
   - Make some upgrades in [hello-vue3](https://github.com/Zero65Tech/hello-vue3) project.
   - Create a new branch in the repository and submit your code.
-- **Update this wiki to make it more helpful for new joiners.**
+- **Update this wiki and make it more helpful for new joiners.**
 
-<br/><br/>
+## Week 2
+- Get started with **Node.js**:
+  - Express/Node introduction - https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction
+- Get started with Google Cloud **Firestore**
+  - Quickstarts - https://cloud.google.com/firestore/docs/quickstarts
+- Show what you learnt:
+  - Make some upgrades in [hello-nodejs](https://github.com/Zero65Tech/hello-nodejs) project.
+  - Create a new branch in the repository and submit your code.
+- **Update this wiki and make it more helpful for new joiners.**
 
-
-## Backend
-
-- **Node.js**  
-  Backend JavaScript runtime environment for building server-side applications.  
-  [Node.js with Express Introduction](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction)  
-  Note: We'll be using JavaScript in Node.js.
-
-## Database
-
-- **Firestore**  
-  Flexible, scalable NoSQL cloud database from Firebase.  
-  [Firestore Quick Start Guide](https://firebase.google.com/docs/firestore/quickstart)
-
-## Stock Market
-
-- **AMC**  
-  Data source (Example: Asset Management Company data)
-
-- **Zerodha**  
-  Data source (Example: Financial data)
-
-- **Some Usefull Link**  
-  [Basic Of Stock Market](https://www.nseindia.com/products-services/about-equity-market)
+## Week 3
+- Investing / Trading Platforms
+  - Zerodha - https://zerodha.com/
+- Asset Management Company (AMC)  
+  - TBD
+- Capital Market
+  - NSE Products - https://www.nseindia.com/products-services/about-equity-market
+- **Update this wiki and make it more helpful for new joiners.**
