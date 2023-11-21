@@ -29,6 +29,8 @@
 ## Week 2
 - Get started with **Node.js**:
   - Express/Node introduction - https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction
+- Get started with **Jest**
+  - Getting Started - https://jestjs.io/docs/getting-started
 - Get started with Google Cloud **Firestore**
   - Quickstarts - https://cloud.google.com/firestore/docs/quickstarts
 - Show what you learnt:
