@@ -16,6 +16,13 @@
 ## Week 1
 - Get started with Vue 3
   - Vue Mastery / Beginner - Vue 3 / [Intro to Vue 3](https://www.vuemastery.com/courses/intro-to-vue-3/intro-to-vue3/)
+- Get started with Vuetify
+  - https://vuetifyjs.com/en/getting-started/installation/#installation
+- Show what you learnt
+  - Make some upgrades in [hello-vue3](https://github.com/Zero65Tech/hello-vue3) project.
+  - Create a new branch in the repository and submit your code.
+
+<br/><br/>
 
 ## Frontend
 
