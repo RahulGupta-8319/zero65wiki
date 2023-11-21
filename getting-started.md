@@ -3,12 +3,15 @@
   - Get email forwarding configured for _your-name_@_zero65.in_ **- prashant@**
   - Register a new [Google Account](https://accounts.google.com/) with _your-name_@_zero65.in_ **- jai@**
   - Get access to [Google Cloud Projects](https://console.cloud.google.com/) **- prashant@**
+  - Get familier with [Google Calander](https://calendar.google.com/), [Google Meet](https://meet.google.com/) & [Google Cloud Console](https://console.cloud.google.com/) **- rahul@**
 - Setup Git:
   - Create a [GitHub](https://github.com/) account, if you don't have one already.
   - Get access to Zero65 [GitHub Repositories](https://github.com/orgs/Zero65Tech/repositories) **- prashant@**
-- Setup Zero65 Account
+  - Get familier with basic Git commands - clone, pull, push, status, diff, add & commit **- rahul@**
+- Setup Zero65 Account:
   - Register at https://invest.zero65.in using _your-name_@_zero65.in_ Google Account.
-  - Get acess to test Profiles **- prashant@**
+  - Install [Zreo65 Chrome Extension](https://chromewebstore.google.com/detail/invest/bmimjjjamcpohjjfmdhneocpniahbapo).
+  - Get acess to test portfolio & profiles **- prashant@**
 
 ## Week 1
 
