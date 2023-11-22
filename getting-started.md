@@ -1,7 +1,7 @@
 ## Day 1
 - Setup _your-name_@_zero65.in_ Google Account:
   - Get email forwarding configured for _your-name_@_zero65.in_ **- prashant@**
-  - Register a new [Google Account](https://accounts.google.com/) with _your-name_@_zero65.in_ **- jai@**
+  - Register a new [Google Account](https://accounts.google.com/) with _your-name_@_zero65.in_ **- jai@** (Note- Dont create Gmail account with @zero65 ID)
   - Get access to [Google Cloud Projects](https://console.cloud.google.com/) **- prashant@**
   - Get familiar with [Google Calander](https://calendar.google.com/), [Google Meet](https://meet.google.com/) & [Google Cloud Console](https://console.cloud.google.com/) **- rahul@**
 - Setup Git:
