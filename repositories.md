@@ -19,6 +19,7 @@
   - `market-npm`
   - `invest-npm`
 - v4
+  - `utils-nodejs-v4`
   - `indian-stock-exchange`
 
 ## Market
