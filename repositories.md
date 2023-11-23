@@ -1,6 +1,7 @@
 - **zero65-legacy** ⇒ `zero65`
 - `jarvis`
 - `config`
+- `config-nest`
 - `gcloud`
 - `gateway`
 - `user`
