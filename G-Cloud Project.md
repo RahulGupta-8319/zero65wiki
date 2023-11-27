@@ -32,6 +32,7 @@ code -> github -> webhook -> gcloud config/service -> cloud build
     - combination of both parallel and series
 - Retry button will be given to latest log in master branch with option to choose commit
 - roll back log will have some different log nomenclature
+- feature branch can only be deployed till gamma, merge it with master branch for prod deployment
  
 ### For FE :
 - commit -> beta -> gamma -> prod
