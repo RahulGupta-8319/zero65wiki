@@ -12,4 +12,5 @@
 |Streamlit|build and share data apps, works on python|FE|[Link](https://streamlit.io/)| 
 |Lodash|javascript utility lib|-|[Link](https://lodash.com/)|
 |Vueform|vue lib for creating form|FE|[Link](https://vueform.com/)|
-|Moment|lib for date handling|-|[Link](https://www.npmjs.com/package/moment)|
+|Moment|lib for date & time handling|-|[Link](https://www.npmjs.com/package/moment)|
+|date-fns|lib for date & time hanfling|-|[Link](https://www.npmjs.com/package/date-fns)|
