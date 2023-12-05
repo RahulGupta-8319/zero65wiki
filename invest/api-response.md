@@ -5,7 +5,7 @@
   heads: [
     ...
     {
-      key: <string>,
+      key: 'id' | <string>,
       title: <string>,
       align: 'start' | 'center' | 'end',
       format: <string>,
@@ -22,7 +22,11 @@
     ...
     [ ... ],
     ...
-  ]
+  ],
+
+  messages: {
+   rowId: { headKey: <string> } 
+  }
 
 }
 ```
