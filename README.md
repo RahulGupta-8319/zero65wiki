@@ -25,5 +25,7 @@
   - Experiments with GitHub Actions - `@jai` `23-24 Nov '23`
   - Design discussions - `@jai` `27-28 Nov '23`
   - Experiments with Firestore - `@jai` `29 Nov - 01 Dec '23`
+  - Hello CRUD apis with a test Firestore collection - `@jai` `2023-12-04 - TBD`
+  - Vue3 UI for hello CRUD api demo
   - Skeleton CRUD apis - `@jai` `TBD - TBD`
   - Skeleton UI for CRUD apis
