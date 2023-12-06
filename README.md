@@ -22,3 +22,8 @@
 - Invest Portfolio
   - Upgrades in transactions related views - `@rahul` `2023-12-04 - TBD`
 - Pipelines
+  - Experiments with GitHub Actions - `@jai` `23-24 Nov '23`
+  - Design discussions - `@jai` `27-28 Nov '23`
+  - Experiments with Firestore - `@jai` `29 Nov - 01 Dec '23`
+  - Skeleton CRUD apis - `@jai` `TBD - TBD`
+  - Skeleton UI for CRUD apis
