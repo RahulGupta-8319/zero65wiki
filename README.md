@@ -7,7 +7,7 @@
     - Fix formatting and commit to the repository (feature branches only)
 - Hello World
   - hello-nodejs
-    - Write CRUD api with a test Firestore collection - `@jai` `2023-12-05 - TBD`
+    - Write CRUD api with a test Firestore collection - `@jai` `2023-12-04 - TBD`
   - hello-vue3
     - Vue3 UI for CRUD api demo
 - NPM Packages
@@ -19,3 +19,6 @@
   - [Date String](https://www.npmjs.com/package/@zero65tech/date-string)
     - Write test suite with 100% code coverage
     - Version 4.0 upgrades
+- Invest Portfolio
+  - Upgrades in transactions related views - `@rahul` `2023-12-04 - TBD`
+- Pipelines
