@@ -1,7 +1,16 @@
 
 - Coding Standards
   - ESLint Stylistic Config
-    - Create and test rules in hello-nodejs repository - `@gargi` `2023-12-05`
+    - Create and test rules in hello-nodejs repository - `@gargi` `2023-12-05 - TBD`
     - Move rules to a config repository and npm package
   - ESLint Stylistic Bot
     - Fix formatting and commit to the repository (feature branches only)
+- NPM Packages
+  - [India Stock Market](https://www.npmjs.com/package/@zero65tech/indian-stock-market)
+    - Version 4.0 upgrades - `@jai` `DONE - 2023-11-22`
+    - Version 4.1 upgrades - `@jai` `IN PROGRESS`
+  - [Google Cloud Platform](https://www.npmjs.com/package/@zero65tech/google-cloud-platform)
+    - Version 4.0 upgrades - `@prashant`
+  - [Date String](https://www.npmjs.com/package/@zero65tech/date-string)
+    - Write test suite with 100% code coverage
+    - Version 4.0 upgrades
