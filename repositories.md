@@ -21,7 +21,7 @@
   - `market-npm`
   - `invest-npm`
 - v4
-  - `utils-nodejs-v4`
+  - ~`utils-nodejs-v4`~
   - `google-cloud`
   - `indian-stock-exchange`
 
