@@ -5,11 +5,6 @@
     - Move rules to a config repository and npm package
   - ESLint Stylistic Bot
     - Fix formatting and commit to the repository (feature branches only)
-- Hello World
-  - hello-nodejs
-    - Write CRUD api with a test Firestore collection - `@jai` `2023-12-04 - TBD`
-  - hello-vue3
-    - Vue3 UI for CRUD api demo
 - NPM Packages
   - [India Stock Market](https://www.npmjs.com/package/@zero65tech/indian-stock-market)
     - Version 4.0 upgrades - `@jai` `DONE - 2023-11-22`
@@ -20,12 +15,12 @@
     - Write test suite with 100% code coverage
     - Version 4.0 upgrades
 - Invest Portfolio
-  - Upgrades in transactions related views - `@rahul` `2023-12-04 - TBD`
+  - Upgrades in transactions-related views - `@rahul` `2023-12-04 - TBD`
 - Pipelines
   - Experiments with GitHub Actions - `@jai` `23-24 Nov '23`
   - Design discussions - `@jai` `27-28 Nov '23`
   - Experiments with Firestore - `@jai` `29 Nov - 01 Dec '23`
   - Hello CRUD apis with a test Firestore collection - `@jai` `2023-12-04 - TBD`
-  - Vue3 UI for hello CRUD api demo
+  - Vue3 UI for hello CRUD apis
   - Skeleton CRUD apis - `@jai` `TBD - TBD`
   - Skeleton UI for CRUD apis
