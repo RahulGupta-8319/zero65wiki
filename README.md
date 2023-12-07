@@ -22,5 +22,5 @@
   - Experiments with Firestore - `@jai` `29 Nov - 01 Dec '23`
   - Hello CRUD apis with a test Firestore collection - `@jai` `04 Dec '23 - TBD`
   - Vue3 UI for hello CRUD apis
-  - Core Apis - `@jai` `TBD - TBD`
+  - Core apis - `@jai` `TBD - TBD`
   - Skeleton UI
