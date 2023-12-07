@@ -20,6 +20,9 @@
   - View(s) for direct trades & transactions - `@rahul`
   - Portfolio view(s) (holdings + positions + funds)
   - Write a test suite for apis with 100% code coverage :hamster:
+- Invest Trade
+- Invest Watch
+- Invest Auto
 - Pipelines
   - Experiments with GitHub Actions - `@jai` `23-24 Nov '23`
   - Design discussions - `@jai` `27-28 Nov '23`
