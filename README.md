@@ -12,13 +12,14 @@
   - [Google Cloud Platform](https://www.npmjs.com/package/@zero65tech/google-cloud-platform)
     - Version 4.0 upgrades - `@prashant`
   - [Date String](https://www.npmjs.com/package/@zero65tech/date-string)
-    - Write a test suite with 100% code coverage
+    - Write a test suite with 100% code coverage :hamster:
     - Version 4.0 upgrades
 - Invest Portfolio
   - Upgrades in transactions-related views - `@rahul` `04 Dec '23 - TBD`
   - Upgrades in trades-related views
   - View(s) for direct trades & transactions - `@rahul`
   - Portfolio view(s) (holdings + positions + funds)
+  - Write a test suite for apis with 100% code coverage :hamster:
 - Pipelines
   - Experiments with GitHub Actions - `@jai` `23-24 Nov '23`
   - Design discussions - `@jai` `27-28 Nov '23`
