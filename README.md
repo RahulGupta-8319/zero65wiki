@@ -16,6 +16,9 @@
     - Version 4.0 upgrades
 - Invest Portfolio
   - Upgrades in transactions-related views - `@rahul` `04 Dec '23 - TBD`
+  - Upgrades in trades-related views
+  - View(s) for direct trades & transactions - `@rahul`
+  - Portfolio view(s) (holdings + positions + funds)
 - Pipelines
   - Experiments with GitHub Actions - `@jai` `23-24 Nov '23`
   - Design discussions - `@jai` `27-28 Nov '23`
