@@ -25,8 +25,12 @@
   ],
 
   messages: {
-   rowId: { headKey: <string> } 
-  }
+    ...
+    rowId: { headKey: <string> } 
+    ...
+  },
+
+  refresh: seconds
 
 }
 ```
