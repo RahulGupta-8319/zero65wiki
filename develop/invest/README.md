@@ -1,0 +1,39 @@
+- Architecture & System Design
+  - https://github.com/orgs/Zero65Tech/discussions/4
+- Product
+  - Portfolio
+    - Funds, transactions, charges, balances
+    - Trades, events, holdings, pledging
+    - Sector & segment diversification
+    - Performances, P&L, Tax P&L
+  - Trade
+    - Sprints
+    - Stocks & sprints performances
+    - Distribution (across portfolios, tax-loss harvesting)
+- Development
+- Maintenance
+  - Daily
+    - Builds - https://console.cloud.google.com/cloud-build/builds?project=zero65
+    - ZukBot - https://github.com/zukbot
+    - Sprints - https://github.com/Zero65Tech/invest/tree/master/data/sprints
+  - Weekly
+    - Dividends - https://github.com/Zero65Tech/zerodha/tree/master/data/externals
+    - Coin Funds - https://github.com/Zero65Tech/zerodha/tree/master/data/externals
+    - AMC Txns - https://github.com/Zero65Tech/amc/tree/master/data/transactions
+  - Regular
+    - Script asset & tax classes - https://github.com/Zero65Tech/utils-invest/blob/master/src/script.js
+    - Price skips & overrides - https://github.com/Zero65Tech/market/blob/master/routes/price.json
+    - Market Events - https://github.com/Zero65Tech/utils-invest/tree/master/src/config
+    - Mutual Fund ISNs - https://github.com/Zero65Tech/utils-invest/tree/master/src/config
+    - Corporate Actions - https://github.com/Zero65Tech/market/blob/master/nse-json/corporate-actions.js
+  - Yearly (CY)
+    - Market Holidays - https://github.com/Zero65Tech/market-npm/tree/master/src
+    - Market Calander - https://calendar.google.com/calendar/u/0?cid=Y182MmE4OGRlYjUxM2Q4YjI1ODc2NTUyMzIyMTI3NTJjNzQzOTIzZTA2ZDg2MzRkYmZjOWQzNTAxMmVkYzVkYWRiQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20
+- Plan & Strategy - https://github.com/Zero65Tech/invest/discussions
+  - Max Margin = 80% x Portfolio (Assets + Cash)
+  - Exposure = 2.5 x Max Margin
+  - Premium = 1.5% x Exposure (Lot Size x Strike)
+  - i.e. A 100L portfolio can fetch 100 x 80% x 2.5 x 1.5% = 3L premium per month
+  - Market Return = 9%
+  - Net Return = 3% x 12 + 9% = 45%
+- Trading
