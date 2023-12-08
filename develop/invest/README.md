@@ -9,18 +9,15 @@
     - Stocks & sprints performances
     - Distribution (across portfolios, tax-loss harvesting)
   - AI Bot
+    - Alerts
+    - Trades
   - Watch
 - Architecture & System Design
 - Development
 - Maintenance
   - Daily
-    - Builds - https://console.cloud.google.com/cloud-build/builds?project=zero65
     - ZukBot - https://github.com/zukbot
-    - Sprints - https://github.com/Zero65Tech/invest/tree/master/data/sprints
-  - Weekly
-    - Dividends - https://github.com/Zero65Tech/zerodha/tree/master/data/externals
-    - Coin Funds - https://github.com/Zero65Tech/zerodha/tree/master/data/externals
-    - AMC Txns - https://github.com/Zero65Tech/amc/tree/master/data/transactions
+    - Builds - https://console.cloud.google.com/cloud-build/builds?project=zero65
   - Regular
     - Script asset & tax classes - https://github.com/Zero65Tech/utils-invest/blob/master/src/script.js
     - Price skips & overrides - https://github.com/Zero65Tech/market/blob/master/routes/price.json
