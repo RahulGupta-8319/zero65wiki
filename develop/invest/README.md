@@ -8,6 +8,8 @@
     - Sprints
     - Stocks & sprints performances
     - Distribution (across portfolios, tax-loss harvesting)
+  - AI Bot
+  - Watch
 - Architecture & System Design
 - Development
 - Maintenance
