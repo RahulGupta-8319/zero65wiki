@@ -1,5 +1,3 @@
-- Architecture & System Design
-  - https://github.com/orgs/Zero65Tech/discussions/4
 - Product
   - Portfolio
     - Funds, transactions, charges, balances
@@ -10,6 +8,7 @@
     - Sprints
     - Stocks & sprints performances
     - Distribution (across portfolios, tax-loss harvesting)
+- Architecture & System Design
 - Development
 - Maintenance
   - Daily
@@ -29,11 +28,3 @@
   - Yearly (CY)
     - Market Holidays - https://github.com/Zero65Tech/market-npm/tree/master/src
     - Market Calander - https://calendar.google.com/calendar/u/0?cid=Y182MmE4OGRlYjUxM2Q4YjI1ODc2NTUyMzIyMTI3NTJjNzQzOTIzZTA2ZDg2MzRkYmZjOWQzNTAxMmVkYzVkYWRiQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20
-- Plan & Strategy - https://github.com/Zero65Tech/invest/discussions
-  - Max Margin = 80% x Portfolio (Assets + Cash)
-  - Exposure = 2.5 x Max Margin
-  - Premium = 1.5% x Exposure (Lot Size x Strike)
-  - i.e. A 100L portfolio can fetch 100 x 80% x 2.5 x 1.5% = 3L premium per month
-  - Market Return = 9%
-  - Net Return = 3% x 12 + 9% = 45%
-- Trading
