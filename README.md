@@ -11,6 +11,8 @@
     - Version 4.1 upgrades - `@jai` `IN PROGRESS`
   - [Google Cloud Platform](https://www.npmjs.com/package/@zero65tech/google-cloud-platform)
     - Version 4.0 upgrades - `@prashant`
+    - Google Cloud Datastore Support
+    - Google Cloud PubSub Support
   - [Date String](https://www.npmjs.com/package/@zero65tech/date-string)
     - Write a test suite with 100% code coverage :hamster:
     - Version 4.0 upgrades
