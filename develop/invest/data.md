@@ -10,7 +10,7 @@
 | FO | id | date | time | platform | segment | type | symbol | script | expiry | strike | quantity | price |
 | Custom | id | date | time | - | segment | type | symbol | - | - | - | quantity | price |
 
-| - | ID | Date | Platform | Segment | Txn. Type | Amount | TDS | Balance | Txn. Date | Note |
+| - | ID | Date | Platform | Segment | Type | Amount | TDS | Balance | Txn. Date | Note |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | Custom Trade | id | date | - | segment | - | amount | - | - | txnDate | - |
 | Transaction | id | date | platform | segment | type | amount | tds | balance | txnDate | note |
